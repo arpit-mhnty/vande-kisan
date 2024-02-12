@@ -5,3 +5,4 @@ all thing work as demand and supply model
 <br>
 desing is on progress you will find app ready betweek june-aug(2024)
 as API bulding and UI Building going to start on 31 April
+<br> if anyone intrested to contribute as springboot or android dev pls connect with ig-hey.mohanty
